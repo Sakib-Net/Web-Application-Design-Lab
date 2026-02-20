@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table,th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+.blue{
+    background-color: rgb(51, 197, 255);
+}
+.yellow{
+    background-color: yellow;
+}
+.light-green{
+    background-color: lightgreen;
+}
+.light-purple{
+    background-color: plum;
+}
+.light-pink{
+    background-color: lightpink;
+}
+.pink{
+    background-color: rgb(243, 106, 129);
+}
+.light-yellow{
+    background-color: #FFFD8D;
+}
+.sky-blue{
+    background-color: skyblue;
+}
+.biskut{
+    background-color: bisque;
+}
